@@ -71,7 +71,7 @@ const Contact = () => {
       [e.target.name]: e.target.value,
     });
   };
-
+// Code
   return (
     <section id="contact" className="py-20 bg-gray-50">
       <motion.div
